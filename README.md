@@ -48,10 +48,7 @@ The system uses the OpenAI API to handle natural language queries, plus PDF/Link
 4. Everything is **logged** and sent to me instantly via Pushover.  
 
 ---
+## 🌐 Demo  
 
-## 📦 Installation  
-
-Clone the repo:  
-```bash
-git clone https://github.com/yourusername/interactive-cv.git
-cd interactive-cv
+You can try the project:
+https://huggingface.co/spaces/hmo1999/My_Resume
